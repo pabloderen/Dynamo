@@ -25,8 +25,9 @@ You will need the following to build Dynamo:
 
 - Microsoft Visual Studio 2015
 - [GitHub for Windows](https://windows.github.com/)
-- Microsoft .NET Framework 4.5.
+- Microsoft .NET Framework 4.5 SDK.
 - Microsoft DirectX (install from %GitHub%\Dynamo\tools\install\Extra\DirectX\DXSETUP.exe)
+
 
 Directions for building Dynamo on other platforms (e.g. Linux or OS X) can be found [here](https://github.com/DynamoDS/Dynamo/wiki/Dynamo-on-Linux,-Mac).  
 
